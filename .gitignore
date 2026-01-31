@@ -1,0 +1,41 @@
+# Окружение и кэш
+venv/
+.venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+
+# Модели (не пушить в GitHub — слишком большие; хранить отдельно или на Drive)
+models/
+models 12.07.29/
+
+# Выходы и временные файлы
+outputs/
+temp/
+*.log
+fooocus_live.log
+fooocus.log
+
+# Локальный конфиг (содержит пути с вашего компьютера)
+config.txt
+user_path_config.txt
+
+# Скачанные файлы и кэш
+download_models.pid
+download_models_background.log
+download_models_manual.sh
+hash_cache.txt
+.cache/
+
+# Системное и IDE
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Опционально: не коммитить большие бэкапы
+# backups/*.backup_*

@@ -1,0 +1,37 @@
+============================================================
+Загрузка моделей Stable Diffusion для Fooocus
+============================================================
+
+Папка для моделей: /Users/nikitaamurcev/Yandex.Disk.localized/Мак/Мои проекты/AI-modeli/Fooocus/models 12.07.29/checkpoints
+Всего моделей для загрузки: 3
+
+Существующие модели:
+  - juggernautXL_v8Rundiffusion.safetensors (6.62 GB)
+  - realisticStockPhoto_v20.safetensors (6.46 GB)
+
+
+📥 Загрузка: CyberIllustrious V8.0 (SDXL) - фотореалистичная модель
+   Репозиторий: cyberdelia/CyberIllustrious
+   Тип: SDXL
+   Файл: CyberIllustrious_V8.0_FP16.safetensors
+   Сохранится как: CyberIllustrious_V8.0_FP16.safetensors
+   Путь: /Users/nikitaamurcev/Yandex.Disk.localized/Мак/Мои проекты/AI-modeli/Fooocus/models 12.07.29/checkpoints/CyberIllustrious_V8.0_FP16.safetensors
+   Это может занять некоторое время...
+✓ Успешно загружено: CyberIllustrious_V8.0_FP16.safetensors (6.62 GB)
+
+📥 Загрузка: URPM v2.3 Final (SD 1.5) - реалистичная модель
+   Репозиторий: TheImposterImposters/URPM-v2.3Final
+   Тип: SD 1.5
+   Файл: uberRealisticPornMerge_v23Final.safetensors
+   Сохранится как: URPM-v2.3Final.safetensors
+   Путь: /Users/nikitaamurcev/Yandex.Disk.localized/Мак/Мои проекты/AI-modeli/Fooocus/models 12.07.29/checkpoints/URPM-v2.3Final.safetensors
+   Это может занять некоторое время...
+❌ Ошибка при загрузке uberRealisticPornMerge_v23Final.safetensors: [Errno 2] No such file or directory: '/Users/nikitaamurcev/Yandex.Disk.localized/Мак/Мои проекты/AI-modeli/Fooocus/models 12.07.29/checkpoints/uberRealisticPornMerge_v23Final.safetensors' -> '/Users/nikitaamurcev/Yandex.Disk.localized/Мак/Мои проекты/AI-modeli/Fooocus/models 12.07.29/checkpoints/URPM-v2.3Final.safetensors'
+✓ Deliberate v6 (SD 1.5) - модель для коротких промптов
+  Уже загружена: Deliberate_v6.safetensors (1.99 GB)
+
+============================================================
+Загрузка завершена: 2/3 моделей
+============================================================
+
+⚠ Некоторые модели не были загружены. Проверьте ошибки выше.
